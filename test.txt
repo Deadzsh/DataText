@@ -1,0 +1,1 @@
+将.pak文件和.sig文件放进"Sifu\Content\Paks\~mods"文件夹下即可（没有"~mods"文件夹的话就自己新建一个）
