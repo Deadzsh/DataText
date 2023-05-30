@@ -1,1 +1,1 @@
-将.pak文件和.sig文件放进"Sifu\Content\Paks\~mods"文件夹下即可
+将.pak文件和.sig文件放进"Sifu\Content\Paks\~mods"文件夹下即可（test）
